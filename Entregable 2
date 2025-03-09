@@ -4,7 +4,7 @@ Estudiantes:
     Danielo Wu Zhong - 
 
 Goal Diagram:
-![Diagrama](./Imagenes/diagrama.jpeg)
+![Diagrama](/Imagenes/diagrama.jpeg)
 
 Estados que garantizan el éxito del sistema
     Autenticación y seguridad garantizada
@@ -24,13 +24,13 @@ Estados que garantizan el éxito del sistema
     -   Transparencia en cada transacción con historial de pagos accesible.
 
 Se desarrollaron las siguientes pantallas en Lovable, ya que este desarrollador IA de apps soporta el desarrollo en React Native, se desarrollaron las siguientes ventanas:
-    ![Home01](../Imagenes/Home01.JPG) 
-    ![Home02](../Imagenes/Home02.JPG) 
-    ![PaymentSettings](../Imagenes/IA protoyipo Lovable.JPG) 
-    ![PaymentMethods](../Imagenes/Payment Methods.JPG) 
-    ![PersonalInfo](../Imagenes/Personal Info.JPG) 
-    ![ServiceSettings](../Imagenes/Service Settings.JPG) 
-    ![Services](../Imagenes/Services.JPG) 
+    ![Home01](/Imagenes/Home01.JPG) 
+    ![Home02](/Imagenes/Home02.JPG) 
+    ![PaymentSettings](/Imagenes/IA protoyipo Lovable.JPG) 
+    ![PaymentMethods](/Imagenes/Payment Methods.JPG) 
+    ![PersonalInfo](/Imagenes/Personal Info.JPG) 
+    ![ServiceSettings](/Imagenes/Service Settings.JPG) 
+    ![Services](/Imagenes/Services.JPG) 
 
 Se desarrollo el prototipo de las ventanas en figma,este es el link para visualizarlas:
     https://www.figma.com/design/DtFZmDLd8aJHcozW3nNWGd/Payment-Assistant?node-id=0-1&t=np4Cp1nGDBbQQKHi-1
