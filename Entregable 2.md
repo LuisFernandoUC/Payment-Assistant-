@@ -24,6 +24,7 @@ Estados que garantizan el éxito del sistema
     -   Transparencia en cada transacción con historial de pagos accesible.
 
 Se desarrollaron las siguientes pantallas en Lovable, ya que este desarrollador IA de apps soporta el desarrollo en React Native, se desarrollaron las siguientes ventanas:
+
     ![Home01](/Imagenes/Home01.JPG) 
     ![Home02](/Imagenes/Home02.JPG) 
     ![PaymentSettings](/Imagenes/IA protoyipo Lovable.JPG) 
@@ -41,6 +42,7 @@ Se desarrollo un test de usabilidad con distintas tareas utilizando los prototip
     Videos de evidencia:
         https://drive.google.com/drive/folders/1WGw0zsl1pwjCa-LWsghyva6zZm6g5N0N?usp=sharing
     Algunos heatmaps:
+
         ![Heatmap 1](Imagenes/Heatmaps/AccountSettings.JPG)
         ![Heatmap 2](Imagenes/Heatmaps/Payment.JPG)
         ![Heatmap 3](Imagenes/Heatmaps/PaymentMethods.JPG)
