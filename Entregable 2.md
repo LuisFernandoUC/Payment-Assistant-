@@ -25,13 +25,13 @@ Estados que garantizan el éxito del sistema
 
 Se desarrollaron las siguientes pantallas en Lovable, ya que este desarrollador IA de apps soporta el desarrollo en React Native, se desarrollaron las siguientes ventanas:
 
-    ![Home01](/Imagenes/Home01.JPG) 
-    ![Home02](/Imagenes/Home02.JPG) 
-    ![PaymentSettings](/Imagenes/IA protoyipo Lovable.JPG) 
-    ![PaymentMethods](/Imagenes/Payment Methods.JPG) 
-    ![PersonalInfo](/Imagenes/Personal Info.JPG) 
-    ![ServiceSettings](/Imagenes/Service Settings.JPG) 
-    ![Services](/Imagenes/Services.JPG) 
+![Home01](/Imagenes/Home01.JPG) 
+ ![Home02](/Imagenes/Home02.JPG) 
+![PaymentSettings](/Imagenes/IA protoyipo Lovable.JPG) 
+![PaymentMethods](/Imagenes/Payment Methods.JPG) 
+![PersonalInfo](/Imagenes/Personal Info.JPG) 
+![ServiceSettings](/Imagenes/Service Settings.JPG) 
+![Services](/Imagenes/Services.JPG) 
 
 Se desarrollo el prototipo de las ventanas en figma,este es el link para visualizarlas:
     https://www.figma.com/design/DtFZmDLd8aJHcozW3nNWGd/Payment-Assistant?node-id=0-1&t=np4Cp1nGDBbQQKHi-1
@@ -43,9 +43,9 @@ Se desarrollo un test de usabilidad con distintas tareas utilizando los prototip
         https://drive.google.com/drive/folders/1WGw0zsl1pwjCa-LWsghyva6zZm6g5N0N?usp=sharing
     Algunos heatmaps:
 
-        ![Heatmap 1](Imagenes/Heatmaps/AccountSettings.JPG)
-        ![Heatmap 2](Imagenes/Heatmaps/Payment.JPG)
-        ![Heatmap 3](Imagenes/Heatmaps/PaymentMethods.JPG)
-        ![Heatmap 4](Imagenes/Heatmaps/PaymentSettings.JPG)
-        ![Heatmap 5](Imagenes/Heatmaps/ServiceSettings.JPG)
-        ![Heatmap 6](Imagenes/Heatmaps/Services.JPG)
+![Heatmap 1](Imagenes/Heatmaps/AccountSettings.JPG)
+![Heatmap 2](Imagenes/Heatmaps/Payment.JPG)
+![Heatmap 3](Imagenes/Heatmaps/PaymentMethods.JPG)
+![Heatmap 4](Imagenes/Heatmaps/PaymentSettings.JPG)
+![Heatmap 5](Imagenes/Heatmaps/ServiceSettings.JPG)
+![Heatmap 6](Imagenes/Heatmaps/Services.JPG)
