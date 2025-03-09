@@ -32,6 +32,30 @@
 ## 4. Desarrollo de Pantallas según los estados de éxito
 Se desarrolló pantallas esenciales en Figma, donde a la vez se hizo un prototitpo completo a partir de esas pantallas esenciales.
 🔗 [Prototipo en Figma](https://www.figma.com/design/DtFZmDLd8aJHcozW3nNWGd/Payment-Assistant?node-id=0-1&t=np4Cp1nGDBbQQKHi-1)
+### 4.3.1. Autenticación y seguridad garantizada
+- SingIn
+
+### 4.3.2. Procesamiento exitoso de pagos
+- Payment Confirmation
+- Payment Successful
+- Payment Failed
+
+### 4.3.3. Reconocimiento preciso de comandos de voz
+- Menu
+- Pending Payments
+- History
+- Payment Confirmation
+- Automated Payments
+- Program Payment
+
+### 4.3.4. Manejo eficiente de errores en transacciones
+- Payment Confirmation
+- Payment Failed
+
+### 4.3.5. Confirmación clara de cada operación
+- Payment Confirmation
+- Payment Successful
+- Payment Failed
 
 ## 5. WireFrames en Figma
 Se desarrolló el prototipo de las ventanas en **Figma**, y está disponible en el siguiente enlace:  
