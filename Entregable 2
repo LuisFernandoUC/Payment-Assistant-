@@ -57,10 +57,14 @@ Se desarrollaron las siguientes pantallas en Lovable, ya que este desarrollador 
 5) https://www.figma.com/design/DtFZmDLd8aJHcozW3nNWGd/Payment-Assistant?node-id=0-1&t=np4Cp1nGDBbQQKHi-1
 
 Se desarrollo un test de usabilidad con distintas tareas utilizando los prototipos pasados, se utilizo Loop11 para desarrollar el test.
-    Link del Test: https://www.loop11.com/ui/?l11_uid=107057
-    Drive de pruebas: 
-
-
-7)
-Videos de evidencia:
-https://drive.google.com/drive/folders/1WGw0zsl1pwjCa-LWsghyva6zZm6g5N0N?usp=sharing
+    Link del Test: 
+        https://www.loop11.com/ui/?l11_uid=107057
+    Videos de evidencia:
+        https://drive.google.com/drive/folders/1WGw0zsl1pwjCa-LWsghyva6zZm6g5N0N?usp=sharing
+    Algunos heatmaps:
+        ![Heatmap 1](Imagenes/Heatmaps/AccountSettings.JPG)
+        ![Heatmap 2](Imagenes/Heatmaps/Payment.JPG)
+        ![Heatmap 3](Imagenes/Heatmaps/PaymentMethods.JPG)
+        ![Heatmap 4](Imagenes/Heatmaps/PaymentSettings.JPG)
+        ![Heatmap 5](Imagenes/Heatmaps/ServiceSettings.JPG)
+        ![Heatmap 6](Imagenes/Heatmaps/Services.JPG)
