@@ -1,8 +1,11 @@
-1 & 2 )
+Entregable #2
+Estudiantes:
+    Luis Fernando Ureña Corrales - 2023064329
+    Danielo Wu Zhong - 
+
 Goal Diagram:
 ![Diagrama](/Imagenes/diagrama.jpeg)
 
-3 
 Estados que garantizan el éxito del sistema
     Autenticación y seguridad garantizada
     -   El usuario puede registrarse e iniciar sesión de manera segura con autenticación robusta.
@@ -20,4 +23,17 @@ Estados que garantizan el éxito del sistema
     -   El usuario recibe un resumen del pago antes de ejecutarlo y una confirmación después.
     -   Transparencia en cada transacción con historial de pagos accesible.
 
-4.
+4)
+
+Se desarrollaron las siguientes pantallas en Lovable, ya que este desarrollador IA de apps soporta el desarrollo en React Native, se desarrollaron las siguientes ventanas:
+![Home01](/Imagenes/Home01.JPG) 
+![Home02](/Imagenes/Home02.JPG) 
+![PaymentSettings](/Imagenes/IA protoyipo Lovable.JPG) 
+![PaymentMethods](/Imagenes/Payment Methods.JPG) 
+![PersonalInfo](/Imagenes/Personal Info.JPG) 
+![ServiceSettings](/Imagenes/Service Settings.JPG) 
+![Services](/Imagenes/Services.JPG) 
+
+Se desarrollo un test de usabilidad con distintastareas utilizando los prototipos pasados, se utilizo Loop11 para desarrollar el test
+    Link del Test: https://www.loop11.com/ui/?l11_uid=107057
+    Drive de pruebas: 
